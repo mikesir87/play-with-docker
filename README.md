@@ -1,5 +1,8 @@
 # play-with-docker
 
+> [!NOTE]
+> **Deprecation notice:** the Play with Docker/Kubernetes systems will be unavailable starting March 1, 2026. Please visit [Docker Docs](https://docs.docker.com/guides/) for supported labs and guides.
+
 Play With Docker gives you the experience of having a free Alpine Linux Virtual Machine in the cloud
 where you can build and run Docker containers and even create clusters with Docker features like Swarm Mode.
 
